@@ -7,3 +7,8 @@ h1{
     text-transform: uppercase;
     color: red;
 }
+
+h2{
+    text-align: center;
+    color: blue;
+}
